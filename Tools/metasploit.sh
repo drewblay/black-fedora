@@ -15,3 +15,4 @@ then
 	systemctl start firewalld
 	echo "Firewalld restarted."
 fi
+ln -s /opt/metasploit-framework/bin/msfconsole /usr/bin/msfconsole
