@@ -1,5 +1,7 @@
 # Overview of Black Fedora
 
+*This is a work in progress*
+
 This goal of Black Fedora is to automate the installation of pentesting tools on Fedora Linux. 
 Ultimately I want a quick and easy way for people to have all the tools included in Kali Linux installed on their Fedora boxes.
 https://tools.kali.org/tools-listing
